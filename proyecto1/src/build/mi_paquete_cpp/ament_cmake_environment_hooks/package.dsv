@@ -1,0 +1,4 @@
+source;share/mi_paquete_cpp/local_setup.bash
+source;share/mi_paquete_cpp/local_setup.dsv
+source;share/mi_paquete_cpp/local_setup.sh
+source;share/mi_paquete_cpp/local_setup.zsh

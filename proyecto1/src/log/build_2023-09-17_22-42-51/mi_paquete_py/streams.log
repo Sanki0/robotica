@@ -1,0 +1,20 @@
+[0.435s] Invoking command in '/home/sanki0/Documents/personal/robotica/proyecto1/src/mi_paquete_py': PYTHONPATH=/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_py/prefix_override:/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/mi_paquete_py build --build-base /home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_py/build install --record /home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_py/install.log --single-version-externally-managed
+[0.603s] running egg_info
+[0.603s] writing ../build/mi_paquete_py/mi_paquete_py.egg-info/PKG-INFO
+[0.603s] writing dependency_links to ../build/mi_paquete_py/mi_paquete_py.egg-info/dependency_links.txt
+[0.603s] writing entry points to ../build/mi_paquete_py/mi_paquete_py.egg-info/entry_points.txt
+[0.603s] writing requirements to ../build/mi_paquete_py/mi_paquete_py.egg-info/requires.txt
+[0.603s] writing top-level names to ../build/mi_paquete_py/mi_paquete_py.egg-info/top_level.txt
+[0.604s] reading manifest file '../build/mi_paquete_py/mi_paquete_py.egg-info/SOURCES.txt'
+[0.605s] writing manifest file '../build/mi_paquete_py/mi_paquete_py.egg-info/SOURCES.txt'
+[0.605s] running build
+[0.605s] running build_py
+[0.605s] running install
+[0.605s] running install_lib
+[0.606s] running install_data
+[0.606s] running install_egg_info
+[0.608s] removing '/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_py/lib/python3.10/site-packages/mi_paquete_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.608s] Copying ../build/mi_paquete_py/mi_paquete_py.egg-info to /home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_py/lib/python3.10/site-packages/mi_paquete_py-0.0.0-py3.10.egg-info
+[0.608s] running install_scripts
+[0.621s] writing list of installed files to '/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_py/install.log'
+[0.638s] Invoked command in '/home/sanki0/Documents/personal/robotica/proyecto1/src/mi_paquete_py' returned '0': PYTHONPATH=/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_py/prefix_override:/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/mi_paquete_py build --build-base /home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_py/build install --record /home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_py/install.log --single-version-externally-managed

@@ -1,0 +1,9 @@
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/uninstall.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/mi_paquete_cpp_uninstall.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/test.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/edit_cache.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/rebuild_cache.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/list_install_components.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/install.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/install/local.dir
+/home/sanki0/Documents/personal/robotica/proyecto1/src/build/mi_paquete_cpp/CMakeFiles/install/strip.dir

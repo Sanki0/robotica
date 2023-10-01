@@ -1,0 +1,6 @@
+source;share/mi_paquete_py/hook/pythonpath.ps1
+source;share/mi_paquete_py/hook/pythonpath.dsv
+source;share/mi_paquete_py/hook/pythonpath.sh
+source;share/mi_paquete_py/hook/ament_prefix_path.ps1
+source;share/mi_paquete_py/hook/ament_prefix_path.dsv
+source;share/mi_paquete_py/hook/ament_prefix_path.sh

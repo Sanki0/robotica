@@ -1,0 +1,15 @@
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/ament_index/resource_index/package_run_dependencies/mi_paquete_cpp
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/ament_index/resource_index/parent_prefix_path/mi_paquete_cpp
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/environment/ament_prefix_path.sh
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/environment/ament_prefix_path.dsv
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/environment/path.sh
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/environment/path.dsv
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/local_setup.bash
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/local_setup.sh
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/local_setup.zsh
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/local_setup.dsv
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/package.dsv
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/ament_index/resource_index/packages/mi_paquete_cpp
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/cmake/mi_paquete_cppConfig.cmake
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/cmake/mi_paquete_cppConfig-version.cmake
+/home/sanki0/Documents/personal/robotica/proyecto1/src/install/mi_paquete_cpp/share/mi_paquete_cpp/package.xml
